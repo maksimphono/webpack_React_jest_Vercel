@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'BaumansRegular';
+    src: url('../assets/fonts/Baumans-Regular.ttf');
+}
+
+$color6: rgba(75, 84, 59, 1);
+$color5: rgba(142, 208, 129, 1); // pistachio
+$color4: rgba(180, 210, 186, 1);
+$color3: rgba(181, 127, 80, 1);
+$color2: rgba(201, 177, 125, 1);
+$color1: rgba(220, 226, 170, 1);
+
+/*
+For Mobile devices: 320px-480px
+For Tablets or iPad: 480px - 768px
+For Laptop or small-size screen: 768px -1024px
+For Desktop or large-size screen: 1024px -1200px
+*/
+$mobile-width: 320px;
+$tablet-width: 768px;
+$desktop-width: 1024px;
